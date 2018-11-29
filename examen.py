@@ -38,6 +38,6 @@ def programa():
                                         x=num9
                                     else:
                                         x=num10
-                                        print x
+                                        print " ", x
 
 programa()
